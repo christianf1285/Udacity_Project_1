@@ -13,14 +13,14 @@ In the repository we have all survey files as .csv downloaded from the Stackover
   
 ### Python libraries used
 The following imports are required in order to execute all functions in the notebook:
-- import numpy as np/N
+- import numpy as np
 - import pandas as pd
-  -import os
-  -from os import listdir
-  -from os.path import isfile, join
-  -import re
-  -import matplotlib.pyplot as plt
-  -from sklearn.ensemble import RandomForestRegressor
-  -from sklearn.model_selection import train_test_split
-  -from sklearn.preprocessing import LabelEncoder
-  -from sklearn.metrics import r2_score, mean_squared_error
+- import os
+- from os import listdir
+- from os.path import isfile, join
+- import re
+- import matplotlib.pyplot as plt
+- from sklearn.ensemble import RandomForestRegressor
+- from sklearn.model_selection import train_test_split
+- from sklearn.preprocessing import LabelEncoder
+- from sklearn.metrics import r2_score, mean_squared_error
