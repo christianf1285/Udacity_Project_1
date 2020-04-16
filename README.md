@@ -13,8 +13,8 @@ In the repository we have all survey files as .csv downloaded from the Stackover
   
 ### Python libraries used
 The following imports are required in order to execute all functions in the notebook:
-  -import numpy as np/N
-  -import pandas as pd
+- import numpy as np/N
+- import pandas as pd
   -import os
   -from os import listdir
   -from os.path import isfile, join
