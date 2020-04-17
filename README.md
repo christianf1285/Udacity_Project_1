@@ -10,6 +10,11 @@ Within this project we will further analyze the StackOverflow surveys between 20
 
 ### File description
 In the repository we have all survey files as .csv downloaded from the Stackoverflow site. In order to simplify data loading process files were renamed to have a consistent naming convention ('<year> Stack Overflow Survey Results.csv'). Beside the input files there is one Jupyter Notebook file with all code used for the analysis including comments.
+
+Due to the file size of the surveys they are stored in the following google drive:
+https://drive.google.com/drive/folders/15jDCyU3hkk1bMK0RV_nrA8ZtmU5AT7dD?usp=sharing
+
+Please note that you adjust the folder variable accordingly according to where you store the files in your working directory.
   
 ### Python libraries used
 The following imports are required in order to execute all functions in the notebook:
