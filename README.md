@@ -29,3 +29,8 @@ The following imports are required in order to execute all functions in the note
 - from sklearn.model_selection import train_test_split
 - from sklearn.preprocessing import LabelEncoder
 - from sklearn.metrics import r2_score, mean_squared_error
+
+
+### Medium Blog Post
+Please find the link to a MEdium Blog Post showing the results of the analysis.
+https://medium.com/p/15a159545d84/edit
