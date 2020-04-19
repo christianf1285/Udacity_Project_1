@@ -33,4 +33,5 @@ The following imports are required in order to execute all functions in the note
 
 ### Medium Blog Post
 Please find the link to a MEdium Blog Post showing the results of the analysis.
-https://medium.com/p/15a159545d84/edit
+
+https://medium.com/@christian.foertsch/developer-insights-from-stackoverflow-surveys-15a159545d84?sk=18f4ec1defbb7509129f6daeffa36439
